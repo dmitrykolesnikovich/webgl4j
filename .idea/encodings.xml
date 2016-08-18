@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/libs/joml-gwt-1.4.2-SNAPSHOT.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client.gwt.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/CubeExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/Example.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/RectangleExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/TextureExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/TexturedCubeExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/TriangleExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shc/webgl4j/examples/client/WebGL4J.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/war/texture.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webgl4j/src/com" charset="UTF-8" />
+  </component>
+</project>
